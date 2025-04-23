@@ -3,7 +3,7 @@
 I'm a passionate software engineer in progress with hands-on experience in full-stack development, Python programming, and machine learning. 
 I enjoy building real-world applications that are clean, scalable, and user-focused.
 
-## 🔧 Tech Stack
+## Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, FastAPI  
 **Languages:** Python, JavaScript, Java, C++  
